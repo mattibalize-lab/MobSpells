@@ -1,0 +1,6 @@
+## Author: Mattibalize (Matthz#6933 @ Discord)
+## Notes: Displays the spells that an open-world mob can cast in the game tooltip.
+## Interface: 30300
+
+import.lua
+core.lua
