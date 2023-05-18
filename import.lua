@@ -1,5 +1,5 @@
 -- [npcID] = { {spell1, school1}, {spell2, school2}, ... }
-MobdexDB = {
+MobSpellsDB = {
   [30] = {{ 11918, 8 }, },
   [36] = {{ 8014, 8 }, },
   [40] = {{ 6016, 1 }, },

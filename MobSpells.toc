@@ -1,6 +1,10 @@
 ## Author: Mattibalize (Matthz#6933 @ Discord)
-## Notes: Displays the spells that an open-world mob can cast in the game tooltip.
 ## Interface: 30300
+## Notes: Displays the spells that an open-world mob can cast in the game tooltip.
+## SavedVariables: MobSpellsCfg
+## Version: 1.1
 
+init.lua
+settings.lua
 import.lua
 core.lua
